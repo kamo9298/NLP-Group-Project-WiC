@@ -16,7 +16,8 @@ Training loop:
 Evaluation:
     - Now we evaluate the accuracy of our model using the weights that we obtained while training.
     
-
+Our Final Accuracy:
+70.36%
 
 These are the sources we have used:
 
